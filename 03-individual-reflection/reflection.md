@@ -6,7 +6,7 @@
 
 - Họ và tên: Trần Quốc Sáng
 - Mã học viên: 2A202602712
-- Nhóm: Nhóm phân tích BCTC MWG
+- Nhóm: Si 7
 - Vai trò trong nhóm: Facilitator + tổng hợp Problem Statement
 - Candidate problem nhóm chọn: Phân tích báo cáo tài chính MWG từ PDF, có kiểm tra số học và truy vết nguồn.
 
